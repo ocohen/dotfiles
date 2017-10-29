@@ -22,7 +22,7 @@ set completeopt=longest,menuone "make completion menu nicer
 syntax on
 filetype plugin on
 
-set clipboard=unnamed
+set clipboard=unnamedplus
 set omnifunc=syntaxcomplete#Complete
 
 set splitbelow
