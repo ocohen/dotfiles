@@ -1,6 +1,5 @@
 export PATH=$PATH:$HOME/bin:$HOME/cupp
 alias -r w3m="w3m duckduckgo.com"
-export TERM=screen-256color
 
 # Path to your oh-my-zsh installation.
 ZSH=/usr/share/oh-my-zsh/
