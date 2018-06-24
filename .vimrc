@@ -32,7 +32,7 @@ set mouse=a
 
 set mps +=<:>
 
-colorscheme flattown
+"colorscheme flattown
 
 set tags=tags;$HOME
 
