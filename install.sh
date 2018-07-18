@@ -1,5 +1,6 @@
 sudo apt install exuberant-ctags
 sudo apt install zsh
+cp ~/dotfiles/.ctags ~/.ctags
 wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O ohmyzsh.sh
 chmod u+x ohmyzsh.sh
 ./ohmyzsh.sh
